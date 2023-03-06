@@ -20,9 +20,8 @@
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
-
+- (http://gyanendushekhar.com/2019/11/17/create-health-bar-unity-3d/)
+- (https://medium.com/swlh/game-dev-how-to-make-health-bars-in-unity-from-beginner-to-advanced-9a1d728d0cbf)
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
